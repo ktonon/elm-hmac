@@ -1,6 +1,7 @@
 # elm-hmac
 
 [![elm-package](https://img.shields.io/badge/elm-1.0.0-blue.svg)](http://package.elm-lang.org/packages/ktonon/elm-hmac/latest)
+[![CircleCI](https://img.shields.io/circleci/project/github/ktonon/elm-hmac.svg)](https://circleci.com/gh/ktonon/elm-hmac)
 
 Compute HMAC digests.
 
