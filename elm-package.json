@@ -1,13 +1,13 @@
 {
-    "version": "1.0.0",
-    "summary": "Compute HMAC digests",
+    "version": "1.0.1",
+    "summary": "Deprecated. Use ktonon/elm-crypto",
     "repository": "https://github.com/ktonon/elm-hmac.git",
     "license": "MIT",
     "source-directories": [
         "src"
     ],
     "exposed-modules": [
-      "HMAC"
+        "HMAC"
     ],
     "dependencies": {
         "elm-lang/core": "5.1.1 <= v < 6.0.0",
